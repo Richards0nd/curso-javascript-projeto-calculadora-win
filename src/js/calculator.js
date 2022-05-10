@@ -1,0 +1,1 @@
+document.calculator = new CalcController()
