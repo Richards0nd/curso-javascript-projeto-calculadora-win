@@ -1,0 +1,15 @@
+root = true
+
+[*.js]
+charset = utf-8
+end_of_line = lf
+indent_style = tab
+indent_size = 3
+trim_trailing_whitespace = true
+
+[*.html]
+charset = utf-8
+end_of_line = lf
+indent_style = tab
+indent_size = 4
+trim_trailing_whitespace = true
